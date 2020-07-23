@@ -1,0 +1,4 @@
+-r base.txt
+ipdb==0.12
+Werkzeug==0.15.2
+django-extensions==2.1.6
