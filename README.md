@@ -1,4 +1,4 @@
-# Lab-test Microservice
+# Orea Microservice
 
 ### Docker Set up
 To run build and run the detached servers
